@@ -3,7 +3,7 @@ This script is meant to work as follows:
 - Navigate to trello
 - Open the card you want to copy the items
 - Open the browser console(F12 usually)
-- Paste the script
+- Paste the script to the console tab
 - Click to create a new card and paste them.
 - Trello will prompt you to create N new cards
 */
