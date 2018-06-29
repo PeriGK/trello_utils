@@ -7,6 +7,6 @@ This script is meant to work as follows:
 - Click to create a new card and paste them.
 - Trello will prompt you to create N new cards
 */
-copy($(".checklist-item:not(.checklist-item-checked)").map(function() {
+copy($(".checklist-item").map(function() {
     return $(this).find(".checklist-item-details-text").text()
   }).get().join("\n"))
