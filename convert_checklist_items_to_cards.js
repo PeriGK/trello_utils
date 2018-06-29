@@ -1,7 +1,7 @@
 /** Convert all the items of a checklist to cards vi the clipboard and copy-paste.
 This script is meant to work as follows:
 - Navigate to trello
-- Open the card you want to copy the items
+- Open the card you want to copy its items
 - Open the browser console(F12 usually)
 - Paste the script to the console tab
 - Click to create a new card and paste them.
